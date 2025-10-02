@@ -1,0 +1,7 @@
+html { scroll-behavior: smooth; }
+.snap-parent { scroll-snap-type: y proximity; overflow-y: auto; height: 100vh; }
+.snap-child { scroll-snap-align: start; }
+#about { background: #0d1117; color: #e5e7eb; }
+#work { background-color: #f8fafc; }
+#contact { background: #ffffff; }
+section .container { max-width: 920px; }

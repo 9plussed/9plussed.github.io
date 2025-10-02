@@ -1,0 +1,12 @@
+title: 9plussed
+description: Personal site
+markdown: kramdown
+kramdown:
+  input: GFM
+theme:
+plugins: []
+sass:
+  style: compressed
+exclude:
+  - node_modules
+  - README.md

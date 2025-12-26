@@ -1,5 +1,5 @@
-# Hi, I’m Patrick 👋
+# Hi, I'm Patrick.
 
-I’m an engineer working in pharmaceutical manufacturing (MS&T), focusing on mRNA drug-substance processes, data-driven improvements, and reliable GMP execution.
+I’m a enthusiast in data wrangling, presentation and analysis. In my work in MS&T, I like to improve on current ways of working, to make data and its outcomes more accessible to everyone.
 
-Use this section for a short intro (2–3 sentences).
+This is a simple website where I try to compile what I have learnt and made.
